@@ -16,7 +16,7 @@ const isPalindrome = (string, counter1, counter2, center) => {
    return palindrome
   }
   
-  const a = "monm"
+  const a = "mom"
   
   
   isPalindrome(a, 0, a.length -1, false);
